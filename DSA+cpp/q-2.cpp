@@ -10,7 +10,7 @@ int main()
     int x = 0;
     int y;
 
-    cout << endl << "Enter the Number :- ";
+    cout << endl << "Enter any Number :- ";
     cin >> n;
     y = n;
 
